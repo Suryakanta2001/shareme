@@ -1,1 +1,1 @@
-<b>shareme</b>
+<b>shareme a modern social media app</b>
